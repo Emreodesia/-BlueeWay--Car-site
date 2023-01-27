@@ -1,0 +1,124 @@
+
+
+    /*Listeleri yan yana yazmak için */
+    nav ul li{
+        list-style:none;
+        display: inline-block;
+        margin-left: 30px;
+       
+        margin-right: 130px;
+        color:aliceblue;
+        border-radius: 10% / 50%;
+        font-family: 'Times New Roman', Times, serif;
+        
+        
+
+
+        }
+        nav ul li a{
+            text-decoration: none;
+            color: rgb(0, 0, 0);
+            font-size: 17px;
+            
+           
+        }
+        nav{
+            width: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            padding: 20px 8%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-style:solid;
+            
+            border-style: width 20px; ;
+            background-color: rgb(34, 24, 92);
+            background-image:url(doc/33.jpg);
+            background-size: 100%;
+            
+            
+          
+            
+            
+             
+
+        }
+        
+        
+
+        h3{
+            
+            background-color:rgb(0, 0, 0);
+            margin-top: -9px;
+           border-style: unset;
+           
+            background-size:50%;
+            color: bisque;
+            width: 1560px;
+            
+           
+        }
+        
+        h2{
+            margin-top: auto;
+            background-color: aliceblue;
+            border-style:solid;
+            
+           
+        }
+        #hero{
+            background-color: aliceblue;
+            margin-top: 100px;
+            border-style:solid;
+        }
+
+        #hero2{
+             
+            background-color: black;
+            margin-top: -240px;
+            
+        }
+        #hero3{
+
+        margin-right: 200px;
+        border-style:solid;
+        }
+      
+section{
+    
+   
+   background-color: rgb(255, 255, 255);
+   background-color: black;
+
+    margin-top: auto;
+
+}
+    p{
+        border: 1px;
+    border-style: solid;
+    margin-top: -50px;
+    background-color: black;
+    color: aliceblue;
+
+
+    }
+    
+    #hero4{
+        width:80%;
+        background-color: black;
+
+    }
+
+      #hero5{
+        margin-left: 770px;
+        margin-top: -800px;
+        
+        
+
+      }
+      body{
+        background-color: black;
+
+      }
