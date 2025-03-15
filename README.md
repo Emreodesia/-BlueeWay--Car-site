@@ -28,9 +28,15 @@ We believe that science and technology play a crucial role in understanding and 
 
 If you want to support our mission to protect nature and raise awareness, you can join our community!
 
-]🌎 Website: https://xn--tabiatnkozas-64bg.com/📱 Socia![22131](https://github.com/user-attachments/assets/631a838a-ce6b-4254-b37c-783376b133dc)
-l Media: https://www.instagram.com/tabiatinkozasi/ 
-Our academic study: https://ugc.production.linktr.ee/5bf78276-dc46-4021-bdea-e20ba4787464_Evini.pdf
+🌎 Website: https://xn--tabiatnkozas-64bg.com/  
+📱 Social Media: https://www.instagram.com/tabiatinkozasi/<br>
+📄 Our Academic Study: [Evini.pdf](https://ugc.production.linktr.ee/5bf78276-dc46-4021-bdea-e20ba4787464_Evini.pdf)
+
 Return to Nature, Give Life to the Earth! 🌿💚
-![Uploading 22131.PNG…]()
+
+
+![Ekran Alıntısı PNG21331](https://github.com/user-attachments/assets/098a1b0a-ad4f-4d0e-8872-8f9e503cd7fc)
+
+
+
 
