@@ -35,7 +35,7 @@ If you want to support our mission to protect nature and raise awareness, you ca
 Return to Nature, Give Life to the Earth! 🌿💚
 
 
-![Ekran Alıntısı PNG21331](https://github.com/user-attachments/assets/098a1b0a-ad4f-4d0e-8872-8f9e503cd7fc)
+![Neon Retro Stars Marketing Mockup Website Instagram Post (1)](https://github.com/user-attachments/assets/dda32f99-14c3-4f08-a19e-4c674e57f98d)
 
 
 
